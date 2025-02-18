@@ -15,5 +15,10 @@ seminar/
     └─ common.css
 ```
 
+#成员
+renzehui
+pluto_ren
+zhangxuefeng
+
 # 备注
 本仓库是书籍《和Wakaba酱一起学Git》练习用仓库。
